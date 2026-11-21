@@ -4,4 +4,4 @@
 
 演练资料位于 `data/models.json`，内容为合成记录，保留不同来源的原始表述和修订关系。项目环境使用 Python 3.11 标准库。
 
-当前资料检查入口为 `python3 -m unittest discover -s tests -v`。检查仅确认 JSON 文件可以读取、记录字段完整且每条原文存在，不会生成业务判断。尚无面向使用者的业务命令。
+本地资料检查使用 Python 标准库运行 `python3 -m unittest discover -s tests -v`。
