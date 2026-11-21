@@ -1,8 +1,0 @@
-[project]
-name = "q010_model_card_registry"
-version = "0.1.0"
-requires-python = ">=3.11,<3.12"
-dependencies = []
-
-[tool.pytest.ini_options]
-python_files = ["test_*.py"]
