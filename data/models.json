@@ -1,0 +1,26 @@
+[
+  {
+    "id": "model-1",
+    "kind": "model_card",
+    "version": 1,
+    "text": "Base-Cedar 支持中文和英语文本生成；许可允许研究与商业使用，具体限制见附录。"
+  },
+  {
+    "id": "model-2",
+    "kind": "release_note",
+    "version": 1,
+    "text": "Cedar-zh 是基于 Base-Cedar 的领域微调版本，使用合成客服语料，未报告法律文本评测。"
+  },
+  {
+    "id": "model-3",
+    "kind": "license_addendum",
+    "version": 2,
+    "text": "附录更正：再分发衍生权重须保留本条款；上游模型许可其余部分不变。"
+  },
+  {
+    "id": "model-4",
+    "kind": "benchmark_note",
+    "version": 1,
+    "text": "Cedar-zh 在客服意图集合上评估；该结果不覆盖开放问答或法律摘要任务。"
+  }
+]
