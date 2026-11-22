@@ -15,12 +15,18 @@
     "id": "model-3",
     "kind": "license_addendum",
     "version": 2,
-    "text": "附录更正：再分发衍生权重须保留本条款；上游模型许可其余部分不变。"
+    "text": "附录更正：Base-Cedar 再分发衍生权重须保留本条款；上游模型许可其余部分不变。"
   },
   {
     "id": "model-4",
     "kind": "benchmark_note",
     "version": 1,
     "text": "Cedar-zh 在客服意图集合上评估；该结果不覆盖开放问答或法律摘要任务。"
+  },
+  {
+    "id": "model-5",
+    "kind": "release_note",
+    "version": 1,
+    "text": "Cedar-zh-Q4 是基于 Cedar-zh 的 4 位量化版本，面向本地推理；未附带独立评测，许可条款需另行确认。"
   }
 ]
